@@ -10,6 +10,6 @@ A broad cybersecurity knowledge map, curated learning resources, labs, projects,
 - [Career paths and certifications](career/CAREERS-AND-CERTIFICATIONS.md)
 - [Study method and safety](STUDY-GUIDE.md)
 
-. Prefer official docs and free resources where possible; some platforms have paid tiers. Verify current pricing, access and certification versions before paying.
+Prefer official docs and free resources where possible; some platforms have paid tiers. Verify current pricing, access and certification versions before paying.
 
 Only test systems you own or have explicit permission to assess. Use isolated VMs and intentionally vulnerable training apps.
